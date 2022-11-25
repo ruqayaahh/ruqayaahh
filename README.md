@@ -2,6 +2,7 @@
 
 - I am passionate about working on Open Source projects.
 - 🔭 I’m currently working on [VaaS3.0](https://github.com/oslabs-beta/VaaS): An Open Source Kubernetes monitoring tool for OpenFaaS developers' community. Other Open Source projects I have contributed to this year include the official [Jupyter](https://github.com/jupyterhub/jupyterhub) documentation and [nigerialogos](https://github.com/PaystackHQ/nigerialogos) from [PayStackHQ](https://github.com/PaystackHQ). [Chakra-UI](https://github.com/chakra-ui/chakra-ui) and [MDN](https://github.com/mdn) are on the list of Open Source projects I would like to contribute to in the first quarter of 2023.
+- :office: Some companies I have enjoyed working at/building for include [Enyata](https://www.enyata.com/), [Kafene](https://www.linkedin.com/company/kafene/), [CareClick](https://www.linkedin.com/company/careclick-technologies/). 
 - 🌱 I’m currently a resident at [Codesmith](https://www.codesmith.io/).
 - 👯 I’m looking to collaborate on more Open Source projects and Software Engineering mentor/mentee-ship.
 - 🤔 I’m looking for help with more opportunities to work with container orchestration or DevOps roles.
