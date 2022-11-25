@@ -6,7 +6,7 @@
 - 🌱 I’m currently a resident at [Codesmith](https://www.codesmith.io/).
 - 👯 I’m looking to collaborate on more Open Source projects and Software Engineering mentor/mentee-ship.
 - 🤔 I’m looking for help with more opportunities to work with container orchestration or DevOps roles.
-- 💬 Ask me about React, Redux, Testing/TDD, Node, Express, SQL, NoSQL(mongo), Data Structures, GraphQL and Vue.
+- 💬 Ask me about Typescript, React, Redux, Testing/TDD, Node, Express, SQL, NoSQL(mongo), Data Structures, Google APIs, GraphQL and Vue.
 - :wrench: Some of the libraries I have used are redux-toolkit, react-query, apollo-graphQL.
 - :black_nib: Here are links to some of my (work-in-progress) writeups: [React Functional Components](https://medium.com/@ruqayaah_aderinola/react-functional-components-hooks-f6b40a983583) and [Using Google APIs](https://medium.com/@ruqayaah_aderinola/using-google-api-google-calendar-api-as-a-case-study-cfb0b22654a1)
 - 📫 How to reach me: mail: aderinolaruqayaah@gmail.com
