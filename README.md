@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - I am passionate about working on Open Source projects.
-- 🔭 I’m currently working on [VaaS3.0](https://github.com/oslabs-beta/VaaS): A Kubernetes monitoring tool for the OpenFaaS developers' community. Here are some other Open source projects I have contributed to this year [NigeriaLogos](https://github.com/PaystackHQ/nigerialogos) from [PayStackHQ](https://github.com/PaystackHQ) and official [Jupyter](https://github.com/jupyterhub/jupyterhub) documentation.
-- 🌱 I’m currently a resident at [Codesmith](https://www.codesmith.io/)
+- 🔭 I’m currently working on [VaaS3.0](https://github.com/oslabs-beta/VaaS): A Kubernetes monitoring tool for the OpenFaaS developers' community. Here are some other Open source projects I have contributed to this year include the official [Jupyter](https://github.com/jupyterhub/jupyterhub) documentation and [nigerialogos](https://github.com/PaystackHQ/nigerialogos) from [PayStackHQ](https://github.com/PaystackHQ). I would like to contribute to [Chakra-UI](https://github.com/chakra-ui/chakra-ui) in the first quarter of 2023.
+- 🌱 I’m currently a resident at [Codesmith](https://www.codesmith.io/).
 - 👯 I’m looking to collaborate on more Open Source projects and Software Engineering mentor/mentee-ship.
 - 🤔 I’m looking for help with more opportunities to work with container orchestration or DevOps roles.
 - 💬 Ask me about React, Redux, Testing/TDD, Node, Express, SQL, NoSQL(mongo), Data Structures, GraphQL and Vue.
